@@ -1,7 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-git lfs track "*.lld"
-*.lld filter=lfs diff=lfs merge=lfs -text
 .meta filter=lfs diff=lfs merge=lfs -text
 .png filter=lfs diff=lfs merge=lfs -text
 .cs filter=lfs diff=lfs merge=lfs -text
@@ -12,5 +10,4 @@ git lfs track "*.lld"
 *wav filter=lfs diff=lfs merge=lfs -text
 *mp3 filter=lfs diff=lfs merge=lfs -text
 *gif filter=lfs diff=lfs merge=lfs -text
-DB filter=lfs diff=lfs merge=lfs -text
 *log filter=lfs diff=lfs merge=lfs -text
