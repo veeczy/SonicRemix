@@ -11,10 +11,9 @@ GameObject:
   - component: {fileID: 3390035564279011171}
   - component: {fileID: 3390035564279011170}
   - component: {fileID: 3390035564279011169}
-  - component: {fileID: 6190585491421054176}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ring
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -106,17 +105,3 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &6190585491421054176
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3390035564279011168}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 10a0e2430cffe2948b7a92d65b6a3f8b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rings: 0
-  ringsText: {fileID: 0}

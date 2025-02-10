@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 7002622816960424734}
   - component: {fileID: 6343060329684513121}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: deer
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
